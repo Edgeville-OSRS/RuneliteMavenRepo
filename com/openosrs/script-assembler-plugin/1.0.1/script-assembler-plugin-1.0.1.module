@@ -39,10 +39,10 @@
           "name": "script-assembler-plugin-1.0.1.jar",
           "url": "script-assembler-plugin-1.0.1.jar",
           "size": 7060,
-          "sha512": "ee5b6301b0b4e9b6dee1398b3f283b2770b656428073fdefd0dc48c0d7f3c24ff8188ff4829a42fb28ff67c3203e7bf2ed227195b4e5c54ff9b711949ca40168",
-          "sha256": "c22c5a37ce07aa09e0b71e8575a85d927534fd3d89e295cbf5817b520ee169d4",
-          "sha1": "def074527b0de2daf95c0fc4ca995849bb946573",
-          "md5": "3f035f1132780cf151adba2070cd57e3"
+          "sha512": "b82553640378336ab6e4c386e9693506738c3e0bd9d487483bd305680186d9527e1db8999c0b3cc6cdd90e887f7459b4a06eb66297dec46cc33d33db8e2433ad",
+          "sha256": "2dc7096462340fbddab53344d061e5b5526fca5b258b5060f4b493baaaec20c3",
+          "sha1": "fce2e52a804602049e9da8eb00d1dcaa223195a8",
+          "md5": "4b6ebee1fcf36d9195ff872943e42c6d"
         }
       ]
     },
@@ -98,10 +98,10 @@
           "name": "script-assembler-plugin-1.0.1.jar",
           "url": "script-assembler-plugin-1.0.1.jar",
           "size": 7060,
-          "sha512": "ee5b6301b0b4e9b6dee1398b3f283b2770b656428073fdefd0dc48c0d7f3c24ff8188ff4829a42fb28ff67c3203e7bf2ed227195b4e5c54ff9b711949ca40168",
-          "sha256": "c22c5a37ce07aa09e0b71e8575a85d927534fd3d89e295cbf5817b520ee169d4",
-          "sha1": "def074527b0de2daf95c0fc4ca995849bb946573",
-          "md5": "3f035f1132780cf151adba2070cd57e3"
+          "sha512": "b82553640378336ab6e4c386e9693506738c3e0bd9d487483bd305680186d9527e1db8999c0b3cc6cdd90e887f7459b4a06eb66297dec46cc33d33db8e2433ad",
+          "sha256": "2dc7096462340fbddab53344d061e5b5526fca5b258b5060f4b493baaaec20c3",
+          "sha1": "fce2e52a804602049e9da8eb00d1dcaa223195a8",
+          "md5": "4b6ebee1fcf36d9195ff872943e42c6d"
         }
       ]
     }

@@ -5,4 +5,5 @@
   <groupId>net.runelite</groupId>
   <artifactId>fernflower</artifactId>
   <version>07082019</version>
+  <packaging>pom</packaging>
 </project>

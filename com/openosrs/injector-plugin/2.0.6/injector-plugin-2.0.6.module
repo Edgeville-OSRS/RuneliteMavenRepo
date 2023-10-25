@@ -38,11 +38,11 @@
         {
           "name": "injector-plugin-2.0.6.jar",
           "url": "injector-plugin-2.0.6.jar",
-          "size": 128860,
-          "sha512": "9c50e630687203ed5c72e96c34a576be29a966c2f57d0c4f45f0637da76f0e2050988f40d943c863728518d90ef696d5260d937cd9772e133c4c6639c955b617",
-          "sha256": "2abbf51d600516b14eb958f8f4ccbba05fd6efb113da35831caec3be275d809e",
-          "sha1": "48455caa50368b64cd9d2af090213f38f1b6fbe1",
-          "md5": "268279c576f64ac1c1d89746639113c2"
+          "size": 127520,
+          "sha512": "933645abb5d4fdbb7d14229ae41d32abfeb2f30aab4aaefc6a1374a5d2f0618f5b6557b6cb933f5c5cedb02abc89fea25c2b001289550287275cc1be4ff6e794",
+          "sha256": "fdde4ac83143d60c159b94a6d7a5a605a515b2f7c63356fc73f2925e34d34fa0",
+          "sha1": "01bf7e9cea6be92dde3e949d3f6eb076da4e8d91",
+          "md5": "f13de5418578ab904a792c0b1a63e913"
         }
       ]
     },
@@ -108,7 +108,7 @@
           "group": "net.unethicalite",
           "module": "deobfuscator",
           "version": {
-            "requires": "1.0.14-EXPERIMENTAL"
+            "requires": "1.0.11-SNAPSHOT"
           },
           "excludes": [
             {
@@ -129,11 +129,11 @@
         {
           "name": "injector-plugin-2.0.6.jar",
           "url": "injector-plugin-2.0.6.jar",
-          "size": 128860,
-          "sha512": "9c50e630687203ed5c72e96c34a576be29a966c2f57d0c4f45f0637da76f0e2050988f40d943c863728518d90ef696d5260d937cd9772e133c4c6639c955b617",
-          "sha256": "2abbf51d600516b14eb958f8f4ccbba05fd6efb113da35831caec3be275d809e",
-          "sha1": "48455caa50368b64cd9d2af090213f38f1b6fbe1",
-          "md5": "268279c576f64ac1c1d89746639113c2"
+          "size": 127520,
+          "sha512": "933645abb5d4fdbb7d14229ae41d32abfeb2f30aab4aaefc6a1374a5d2f0618f5b6557b6cb933f5c5cedb02abc89fea25c2b001289550287275cc1be4ff6e794",
+          "sha256": "fdde4ac83143d60c159b94a6d7a5a605a515b2f7c63356fc73f2925e34d34fa0",
+          "sha1": "01bf7e9cea6be92dde3e949d3f6eb076da4e8d91",
+          "md5": "f13de5418578ab904a792c0b1a63e913"
         }
       ]
     }
