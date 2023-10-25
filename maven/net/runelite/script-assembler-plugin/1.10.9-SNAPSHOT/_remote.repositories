@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jul 28 23:03:45 EDT 2023
+script-assembler-plugin-1.10.9-SNAPSHOT.pom>=
+script-assembler-plugin-1.10.9-20230720.210045-7.jar>runelite-plugins=
+script-assembler-plugin-1.10.9-SNAPSHOT.jar>=
+script-assembler-plugin-1.10.9-20230720.210045-7.pom>runelite-plugins=

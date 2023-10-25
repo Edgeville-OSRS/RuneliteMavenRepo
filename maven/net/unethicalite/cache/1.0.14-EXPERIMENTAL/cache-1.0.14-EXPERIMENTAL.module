@@ -1,0 +1,134 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.unethicalite",
+    "module": "cache",
+    "version": "1.0.14-EXPERIMENTAL",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "net.unethicalite",
+          "module": "http-api",
+          "version": {
+            "requires": "1.0.14-EXPERIMENTAL"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "cache-1.0.14-EXPERIMENTAL.jar",
+          "url": "cache-1.0.14-EXPERIMENTAL.jar",
+          "size": 436443,
+          "sha512": "f7356705eda0fe4c9cbae31251b5fb271d61e1c30795bb647a8d94f6026ace0338258393532cde16903af60311762905dafdf62586246e4ef9d55ffc6aed7615",
+          "sha256": "1de88cf153a13e56dbdd48006989d53bea9f1e17047efc0defe314312eae0224",
+          "sha1": "a82c15d35f2560b68eb2fee779c5aa1f9ff4752c",
+          "md5": "198c82b0536d6a9675c73aebfaccd6c0"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.5"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "30.1.1-jre"
+          }
+        },
+        {
+          "group": "commons-cli",
+          "module": "commons-cli",
+          "version": {
+            "requires": "1.4"
+          }
+        },
+        {
+          "group": "io.netty",
+          "module": "netty-buffer",
+          "version": {
+            "requires": "4.1.54.Final"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.9.1"
+          }
+        },
+        {
+          "group": "org.antlr",
+          "module": "antlr4-runtime",
+          "version": {
+            "requires": "4.7.2"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-compress",
+          "version": {
+            "requires": "1.21"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.32"
+          }
+        },
+        {
+          "group": "net.unethicalite",
+          "module": "http-api",
+          "version": {
+            "requires": "1.0.14-EXPERIMENTAL"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "cache-1.0.14-EXPERIMENTAL.jar",
+          "url": "cache-1.0.14-EXPERIMENTAL.jar",
+          "size": 436443,
+          "sha512": "f7356705eda0fe4c9cbae31251b5fb271d61e1c30795bb647a8d94f6026ace0338258393532cde16903af60311762905dafdf62586246e4ef9d55ffc6aed7615",
+          "sha256": "1de88cf153a13e56dbdd48006989d53bea9f1e17047efc0defe314312eae0224",
+          "sha1": "a82c15d35f2560b68eb2fee779c5aa1f9ff4752c",
+          "md5": "198c82b0536d6a9675c73aebfaccd6c0"
+        }
+      ]
+    }
+  ]
+}

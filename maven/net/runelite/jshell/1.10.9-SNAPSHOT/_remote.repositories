@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 20 20:54:26 EDT 2023
+jshell-1.10.9-20230720.210045-8.jar>runelite=
+jshell-1.10.9-SNAPSHOT.jar>=
+jshell-1.10.9-20230720.210045-8.pom>runelite=
+jshell-1.10.9-SNAPSHOT.pom>=

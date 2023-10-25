@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 04 20:40:54 EDT 2023
+cache-1.5.22.1-tests.jar>=
+cache-1.5.22.1-jar-with-dependencies.jar>=
+cache-1.5.22.1.jar>=
+cache-1.5.22.1.pom>=
+cache-1.5.22.1.jar>runelite-plugins=
+cache-1.5.22.1.pom>runelite-plugins=

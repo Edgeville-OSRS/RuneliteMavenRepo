@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Apr 22 14:01:27 EDT 2023
+http\://0.0.0.0/.error=Could not transfer artifact net.runelite\:deob\:pom\:1.3.9-SNAPSHOT from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [maven-central (http\://repo1.maven.org/maven2, default, releases+snapshots), runelite (http\://repo.runelite.net, default, releases+snapshots)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1682186487756
+https\://repo1.maven.org/maven2/.error=
+https\://repo1.maven.org/maven2/.lastUpdated=1682186487676
+https\://repo.runelite.net/.error=
+https\://repo.runelite.net/.lastUpdated=1682186487755

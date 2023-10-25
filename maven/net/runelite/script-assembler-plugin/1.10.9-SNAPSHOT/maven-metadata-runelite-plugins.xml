@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>net.runelite</groupId>
+  <artifactId>script-assembler-plugin</artifactId>
+  <versioning>
+    <lastUpdated>20230720210045</lastUpdated>
+    <snapshot>
+      <timestamp>20230720.210045</timestamp>
+      <buildNumber>7</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.10.9-20230720.210045-7</value>
+        <updated>20230720210045</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.10.9-20230720.210045-7</value>
+        <updated>20230720210045</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>1.10.9-20230720.210045-7</value>
+        <updated>20230720210045</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>1.10.9-SNAPSHOT</version>
+</metadata>

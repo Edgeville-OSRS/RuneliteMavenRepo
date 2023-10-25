@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 01 16:02:07 EDT 2023
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1685649727300
+http\://0.0.0.0/.error=Could not transfer artifact net.runelite.rs\:cache\:jar\:165 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [maven-central (http\://repo1.maven.org/maven2, default, releases+snapshots), runelite (http\://repo.runelite.net, default, releases+snapshots)]
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1685649727325
+https\://repo.runelite.net/.lastUpdated=1680321268911
+https\://repo1.maven.org/maven2/.error=
+https\://repo1.maven.org/maven2/.lastUpdated=1680321261457

@@ -1,0 +1,113 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.unethicalite.rs",
+    "module": "runescape-client",
+    "version": "1.0.14-EXPERIMENTAL",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "net.unethicalite.rs",
+          "module": "runescape-api",
+          "version": {
+            "requires": "1.0.14-EXPERIMENTAL"
+          }
+        },
+        {
+          "group": "net.unethicalite",
+          "module": "runelite-api",
+          "version": {
+            "requires": "1.0.14-EXPERIMENTAL"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "runescape-client-1.0.14-EXPERIMENTAL.jar",
+          "url": "runescape-client-1.0.14-EXPERIMENTAL.jar",
+          "size": 1330639,
+          "sha512": "f2ffac588dbab8c454bf702542c719169ac8fb5595924d1ceff3298b1746c38affb0ef0fa71cac3ca9ee254f5ecd3a0b49c0ee62f44e0ed56d767a48145bb3f3",
+          "sha256": "d10dec23a6ef2674193096c3437e0555f3999666f4fe72017da4434cdb513c01",
+          "sha1": "57cdc5cb839b1dee037d4b2a9cff81e28b5c7a8c",
+          "md5": "43c2c682bc28859f11c26eea19b65587"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.unethicalite",
+          "module": "injection-annotations",
+          "version": {
+            "requires": "1.1"
+          }
+        },
+        {
+          "group": "org.bouncycastle",
+          "module": "bcprov-jdk15on",
+          "version": {
+            "requires": "1.52"
+          }
+        },
+        {
+          "group": "org.json",
+          "module": "json",
+          "version": {
+            "requires": "20220320"
+          }
+        },
+        {
+          "group": "net.unethicalite.rs",
+          "module": "runescape-api",
+          "version": {
+            "requires": "1.0.14-EXPERIMENTAL"
+          }
+        },
+        {
+          "group": "net.unethicalite",
+          "module": "runelite-api",
+          "version": {
+            "requires": "1.0.14-EXPERIMENTAL"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "runescape-client-1.0.14-EXPERIMENTAL.jar",
+          "url": "runescape-client-1.0.14-EXPERIMENTAL.jar",
+          "size": 1330639,
+          "sha512": "f2ffac588dbab8c454bf702542c719169ac8fb5595924d1ceff3298b1746c38affb0ef0fa71cac3ca9ee254f5ecd3a0b49c0ee62f44e0ed56d767a48145bb3f3",
+          "sha256": "d10dec23a6ef2674193096c3437e0555f3999666f4fe72017da4434cdb513c01",
+          "sha1": "57cdc5cb839b1dee037d4b2a9cff81e28b5c7a8c",
+          "md5": "43c2c682bc28859f11c26eea19b65587"
+        }
+      ]
+    }
+  ]
+}

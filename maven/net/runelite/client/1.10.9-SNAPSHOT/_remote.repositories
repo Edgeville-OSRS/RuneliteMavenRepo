@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 20 20:54:48 EDT 2023
+client-1.10.9-SNAPSHOT-shaded.jar>=
+client-1.10.9-SNAPSHOT-tests.jar>=
+client-1.10.9-SNAPSHOT.jar>=
+client-1.10.9-SNAPSHOT.pom>=

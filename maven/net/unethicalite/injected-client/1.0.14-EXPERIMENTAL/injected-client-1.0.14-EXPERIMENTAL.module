@@ -1,0 +1,58 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.unethicalite",
+    "module": "injected-client",
+    "version": "1.0.14-EXPERIMENTAL",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      }
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "injected-client-1.0.14-EXPERIMENTAL.oprs",
+          "url": "injected-client-1.0.14-EXPERIMENTAL.oprs",
+          "size": 3779895,
+          "sha512": "01fcb4b68cf34a333870cd8c867e0b875789a827aedff1531208fbb4b4e33f8de8e8a6b09231fc2a3cdeeb9c95eef18e9dbb8ef1ababb87a2d2e4aa57b66633a",
+          "sha256": "fa33e6d08212b2f2b90955d38995235f448a6a93b7ca377bc60dcc73e8edd3cd",
+          "sha1": "7c7b1d09d5f4e24a6758635079f602a3a08168e7",
+          "md5": "8d2167776fdb5ddac41772f3d243ea73"
+        },
+        {
+          "name": "injected-client-1.0.14-EXPERIMENTAL.hash",
+          "url": "injected-client-1.0.14-EXPERIMENTAL.hash",
+          "size": 64,
+          "sha512": "7db6573d9670a06e568da1783176dccae4c860ec382be56051475d8c93bc3283b9a17574755aa2f310ec2ec4ac6d3fd46e3a9beaefe73fa76ab7a5970cd001fd",
+          "sha256": "07452f386b5f1571b928b7f0ae4b90ed5d097cb5327e7e332912817bf21fd842",
+          "sha1": "68d1d5aa82b5aa2b33825e712de716da9c0a49c7",
+          "md5": "109fc1d0c8b3b0e6fcae048bfad8fecf"
+        }
+      ]
+    }
+  ]
+}

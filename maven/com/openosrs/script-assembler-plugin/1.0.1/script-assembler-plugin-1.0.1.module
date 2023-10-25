@@ -1,0 +1,109 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "script-assembler-plugin",
+    "version": "1.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "script-assembler-plugin-1.0.1.jar",
+          "url": "script-assembler-plugin-1.0.1.jar",
+          "size": 7105,
+          "sha512": "7653e855ceb600cbf0e369e1c5413e12a27a021e0967444c2b9d2322df12170b9fbf7f12658f16f3a4b28c19976dd80ddf913652bb943f877249421074ce55c3",
+          "sha256": "487b89fc8fb75fb929d5a30f6e148ca7b277ff2ec6e97f07dbdcc9db38844b79",
+          "sha1": "21cac9bb8ab6ee0e64f45d43a7683e13c6aca7a0",
+          "md5": "a6b0bf5857824dee55ac11481cb36ed5"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "30.1.1-jre"
+          }
+        },
+        {
+          "group": "org.antlr",
+          "module": "antlr4-runtime",
+          "version": {
+            "requires": "4.8-1"
+          }
+        },
+        {
+          "group": "net.runelite",
+          "module": "cache",
+          "version": {
+            "requires": "1.8.25"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "script-assembler-plugin-1.0.1.jar",
+          "url": "script-assembler-plugin-1.0.1.jar",
+          "size": 7105,
+          "sha512": "7653e855ceb600cbf0e369e1c5413e12a27a021e0967444c2b9d2322df12170b9fbf7f12658f16f3a4b28c19976dd80ddf913652bb943f877249421074ce55c3",
+          "sha256": "487b89fc8fb75fb929d5a30f6e148ca7b277ff2ec6e97f07dbdcc9db38844b79",
+          "sha1": "21cac9bb8ab6ee0e64f45d43a7683e13c6aca7a0",
+          "md5": "a6b0bf5857824dee55ac11481cb36ed5"
+        }
+      ]
+    }
+  ]
+}

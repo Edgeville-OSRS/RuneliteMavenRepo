@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 04 20:40:57 EDT 2023
+script-assembler-plugin-1.5.22.1.pom>=
+script-assembler-plugin-1.5.22.1.jar>runelite-plugins=
+script-assembler-plugin-1.5.22.1.pom>runelite-plugins=
+script-assembler-plugin-1.5.22.1.jar>=

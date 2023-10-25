@@ -1,0 +1,148 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.unethicalite",
+    "module": "wiki-scraper",
+    "version": "1.0.14-EXPERIMENTAL",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "net.unethicalite",
+          "module": "cache",
+          "version": {
+            "requires": "1.0.14-EXPERIMENTAL"
+          }
+        },
+        {
+          "group": "net.unethicalite",
+          "module": "runelite-api",
+          "version": {
+            "requires": "1.0.14-EXPERIMENTAL"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "wiki-scraper-1.0.14-EXPERIMENTAL.jar",
+          "url": "wiki-scraper-1.0.14-EXPERIMENTAL.jar",
+          "size": 42797,
+          "sha512": "4a0c9126ec2f0843d0b8ef40c608cc6fa82439f181188ff41f409928d5e7f2903ea344cb8618c3db49b4498740924de49e3a84a1bd22c85043a1a6f818e56fa4",
+          "sha256": "aea2df6c78d0c0735b99e6547f39aa9e8065f94997d0019c7182252b821c9282",
+          "sha1": "bce92096e26a48b6246d65da8f46c2e4ed190a57",
+          "md5": "46d4e94712b8208a511d3aeca510764c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.apache.commons",
+          "module": "commons-text",
+          "version": {
+            "requires": "1.9"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.5"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "30.1.1-jre"
+          }
+        },
+        {
+          "group": "com.github.petitparser",
+          "module": "java-petitparser",
+          "version": {
+            "requires": "2.3.1"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.9.1"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.32"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-simple",
+          "version": {
+            "requires": "1.7.32"
+          }
+        },
+        {
+          "group": "org.junit.jupiter",
+          "module": "junit-jupiter-api",
+          "version": {
+            "requires": "5.7.0"
+          }
+        },
+        {
+          "group": "net.unethicalite",
+          "module": "cache",
+          "version": {
+            "requires": "1.0.14-EXPERIMENTAL"
+          }
+        },
+        {
+          "group": "net.unethicalite",
+          "module": "runelite-api",
+          "version": {
+            "requires": "1.0.14-EXPERIMENTAL"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "wiki-scraper-1.0.14-EXPERIMENTAL.jar",
+          "url": "wiki-scraper-1.0.14-EXPERIMENTAL.jar",
+          "size": 42797,
+          "sha512": "4a0c9126ec2f0843d0b8ef40c608cc6fa82439f181188ff41f409928d5e7f2903ea344cb8618c3db49b4498740924de49e3a84a1bd22c85043a1a6f818e56fa4",
+          "sha256": "aea2df6c78d0c0735b99e6547f39aa9e8065f94997d0019c7182252b821c9282",
+          "sha1": "bce92096e26a48b6246d65da8f46c2e4ed190a57",
+          "md5": "46d4e94712b8208a511d3aeca510764c"
+        }
+      ]
+    }
+  ]
+}

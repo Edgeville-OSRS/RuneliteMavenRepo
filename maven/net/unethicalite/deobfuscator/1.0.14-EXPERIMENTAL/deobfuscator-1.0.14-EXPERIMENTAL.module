@@ -1,0 +1,139 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.unethicalite",
+    "module": "deobfuscator",
+    "version": "1.0.14-EXPERIMENTAL",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "deobfuscator-1.0.14-EXPERIMENTAL.jar",
+          "url": "deobfuscator-1.0.14-EXPERIMENTAL.jar",
+          "size": 559272,
+          "sha512": "84e7476dec2581edb1e2419430bd7c23f58767d0cc8d032cc861327617aca1add0db522c33915e5e79d01232f301a71f2483751259ccf8fafe2e3a92ab595c13",
+          "sha256": "6db0180c16e1b41fa7665bb308c0c241639039530b7084558467f7645b9e4aa1",
+          "sha1": "3698a0115a073f20898c4337b444ab505403a8ee",
+          "md5": "3a83ab85d54c3bac4acc66568d435ab6"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.unethicalite",
+          "module": "runelite-api",
+          "version": {
+            "requires": "1.0.14-EXPERIMENTAL"
+          }
+        },
+        {
+          "group": "net.unethicalite.rs",
+          "module": "runescape-api",
+          "version": {
+            "requires": "1.0.14-EXPERIMENTAL"
+          }
+        },
+        {
+          "group": "net.unethicalite",
+          "module": "cache",
+          "version": {
+            "requires": "1.0.14-EXPERIMENTAL"
+          }
+        },
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "22.0.0"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm",
+          "version": {
+            "requires": "9.0"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-util",
+          "version": {
+            "requires": "9.0"
+          }
+        },
+        {
+          "group": "net.runelite",
+          "module": "fernflower",
+          "version": {
+            "requires": "07082019"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.6"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "30.1.1-jre"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.32"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-simple",
+          "version": {
+            "requires": "1.7.32"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "deobfuscator-1.0.14-EXPERIMENTAL.jar",
+          "url": "deobfuscator-1.0.14-EXPERIMENTAL.jar",
+          "size": 559272,
+          "sha512": "84e7476dec2581edb1e2419430bd7c23f58767d0cc8d032cc861327617aca1add0db522c33915e5e79d01232f301a71f2483751259ccf8fafe2e3a92ab595c13",
+          "sha256": "6db0180c16e1b41fa7665bb308c0c241639039530b7084558467f7645b9e4aa1",
+          "sha1": "3698a0115a073f20898c4337b444ab505403a8ee",
+          "md5": "3a83ab85d54c3bac4acc66568d435ab6"
+        }
+      ]
+    }
+  ]
+}

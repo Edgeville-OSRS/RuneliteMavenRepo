@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 20 20:54:15 EDT 2023
+cache-updater-1.10.9-SNAPSHOT.pom>=
+cache-updater-1.10.9-SNAPSHOT-spring-boot.jar>=
+cache-updater-1.10.9-SNAPSHOT.jar>=

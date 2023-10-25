@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jul 28 23:03:41 EDT 2023
+cache-1.10.9-SNAPSHOT.pom>=
+cache-1.10.9-20230720.210045-8.jar>runelite-plugins=
+cache-1.10.9-20230720.210045-8.pom>runelite-plugins=
+cache-1.10.9-SNAPSHOT-tests.jar>=
+cache-1.10.9-20230726.100538-20.pom>runelite=
+cache-1.10.9-SNAPSHOT.jar>=
+cache-1.10.9-SNAPSHOT-jar-with-dependencies.jar>=
+cache-1.10.9-20230726.100538-20.jar>runelite=
