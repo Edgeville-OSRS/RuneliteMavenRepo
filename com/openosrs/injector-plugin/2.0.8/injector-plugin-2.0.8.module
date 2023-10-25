@@ -3,7 +3,7 @@
   "component": {
     "group": "com.openosrs",
     "module": "injector-plugin",
-    "version": "2.0.11",
+    "version": "2.0.8",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -36,13 +36,13 @@
       ],
       "files": [
         {
-          "name": "injector-plugin-2.0.11.jar",
-          "url": "injector-plugin-2.0.11.jar",
-          "size": 127481,
-          "sha512": "b44a8f967f4748082e4e19d5d6ae7039900824b6cf723329551ff93c0b2d508d8f785ebee56092a9fb518758178416c972ce8dc4f300e6285d32149a8539b94d",
-          "sha256": "8f4d270d2fa8ff700b40bbb0a9b42637b4ab8adb23f2a94126743bdfea6e3115",
-          "sha1": "c7fcd3ec436629d49c28a01631454822e961b5ca",
-          "md5": "22fa116f0b7f9d9b9c093f47ccc9fc0a"
+          "name": "injector-plugin-2.0.8.jar",
+          "url": "injector-plugin-2.0.8.jar",
+          "size": 127520,
+          "sha512": "939e9122a8a75dddc9400bf660f44c9d436ee12daf1034c4f72394a9b65ff32dd1fc9340dcafbece30f6c9c00bfe1e9cba18f4495053939498e7d952654b829e",
+          "sha256": "e5fc5c13d4ae3327396c25391d66608da82f219778765d3608104d1980ef9f7a",
+          "sha1": "6ac31f70488b6220f61a79cfd868d6cec4ec2140",
+          "md5": "7471650c2f8899e4384266bf85b9daf9"
         }
       ]
     },
@@ -127,13 +127,13 @@
       ],
       "files": [
         {
-          "name": "injector-plugin-2.0.11.jar",
-          "url": "injector-plugin-2.0.11.jar",
-          "size": 127481,
-          "sha512": "b44a8f967f4748082e4e19d5d6ae7039900824b6cf723329551ff93c0b2d508d8f785ebee56092a9fb518758178416c972ce8dc4f300e6285d32149a8539b94d",
-          "sha256": "8f4d270d2fa8ff700b40bbb0a9b42637b4ab8adb23f2a94126743bdfea6e3115",
-          "sha1": "c7fcd3ec436629d49c28a01631454822e961b5ca",
-          "md5": "22fa116f0b7f9d9b9c093f47ccc9fc0a"
+          "name": "injector-plugin-2.0.8.jar",
+          "url": "injector-plugin-2.0.8.jar",
+          "size": 127520,
+          "sha512": "939e9122a8a75dddc9400bf660f44c9d436ee12daf1034c4f72394a9b65ff32dd1fc9340dcafbece30f6c9c00bfe1e9cba18f4495053939498e7d952654b829e",
+          "sha256": "e5fc5c13d4ae3327396c25391d66608da82f219778765d3608104d1980ef9f7a",
+          "sha1": "6ac31f70488b6220f61a79cfd868d6cec4ec2140",
+          "md5": "7471650c2f8899e4384266bf85b9daf9"
         }
       ]
     }

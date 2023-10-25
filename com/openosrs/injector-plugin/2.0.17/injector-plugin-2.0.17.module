@@ -3,7 +3,7 @@
   "component": {
     "group": "com.openosrs",
     "module": "injector-plugin",
-    "version": "2.0.11",
+    "version": "2.0.17",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -36,13 +36,13 @@
       ],
       "files": [
         {
-          "name": "injector-plugin-2.0.11.jar",
-          "url": "injector-plugin-2.0.11.jar",
-          "size": 127481,
-          "sha512": "b44a8f967f4748082e4e19d5d6ae7039900824b6cf723329551ff93c0b2d508d8f785ebee56092a9fb518758178416c972ce8dc4f300e6285d32149a8539b94d",
-          "sha256": "8f4d270d2fa8ff700b40bbb0a9b42637b4ab8adb23f2a94126743bdfea6e3115",
-          "sha1": "c7fcd3ec436629d49c28a01631454822e961b5ca",
-          "md5": "22fa116f0b7f9d9b9c093f47ccc9fc0a"
+          "name": "injector-plugin-2.0.17.jar",
+          "url": "injector-plugin-2.0.17.jar",
+          "size": 129979,
+          "sha512": "25f4bb3364496f158b45801e8b1225b0c238129ee01568a79cdecae8cae9da21f93f738971bc08309e7dffcd645a5bbedcbce4cb3596f4dba9e2ed4b8e4396f9",
+          "sha256": "715150d61308af250b128942d5e3b609da90c7f95a5e775b1b0f71840c92f4f0",
+          "sha1": "7fa744e32a53c1b53d660da033cc4a9736d18cf7",
+          "md5": "d22dc16b1278ae16b52a6ddd6f114b04"
         }
       ]
     },
@@ -108,7 +108,7 @@
           "group": "net.unethicalite",
           "module": "deobfuscator",
           "version": {
-            "requires": "1.0.11-SNAPSHOT"
+            "requires": "1.0.20-EXPERIMENTAL"
           },
           "excludes": [
             {
@@ -127,13 +127,13 @@
       ],
       "files": [
         {
-          "name": "injector-plugin-2.0.11.jar",
-          "url": "injector-plugin-2.0.11.jar",
-          "size": 127481,
-          "sha512": "b44a8f967f4748082e4e19d5d6ae7039900824b6cf723329551ff93c0b2d508d8f785ebee56092a9fb518758178416c972ce8dc4f300e6285d32149a8539b94d",
-          "sha256": "8f4d270d2fa8ff700b40bbb0a9b42637b4ab8adb23f2a94126743bdfea6e3115",
-          "sha1": "c7fcd3ec436629d49c28a01631454822e961b5ca",
-          "md5": "22fa116f0b7f9d9b9c093f47ccc9fc0a"
+          "name": "injector-plugin-2.0.17.jar",
+          "url": "injector-plugin-2.0.17.jar",
+          "size": 129979,
+          "sha512": "25f4bb3364496f158b45801e8b1225b0c238129ee01568a79cdecae8cae9da21f93f738971bc08309e7dffcd645a5bbedcbce4cb3596f4dba9e2ed4b8e4396f9",
+          "sha256": "715150d61308af250b128942d5e3b609da90c7f95a5e775b1b0f71840c92f4f0",
+          "sha1": "7fa744e32a53c1b53d660da033cc4a9736d18cf7",
+          "md5": "d22dc16b1278ae16b52a6ddd6f114b04"
         }
       ]
     }
